@@ -1,0 +1,38 @@
+
+Colors
+===========
+font related
+--------------
+menu
+Deep ash - #333333
+Ash - #8e8e8e
+
+####################
+Calculations
+====================
+Header
+                xxl/xl/lg     md      sm    col
+h1               30px        30px    30px   25px
+padding          25px        25px    10px   10px
+
+====================
+slider
+
+padding-b        200px      150px   100px   60px
+h2                55px      50px     40px   27px
+
+====================
+service
+
+padding-b         90         50       30    20
+h2                30         30       25    20
+
+icon              60         60       50    40
+=====================
+about
+padding-b         100        60      40
+h2                30         25      20     20
+======================
+why
+padding-b         90         50      30    20
+######################
