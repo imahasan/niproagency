@@ -1,0 +1,364 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+  /* header start */
+  header{
+    padding: 10px 0;
+  }
+  .logo h1{
+    font-size: 25px;
+  }
+  .menu ul li a{
+    padding: 5px 0 0;
+    padding-left: 0 !important;
+    text-align: right;
+  }
+  .search{
+    text-align: right;
+  }
+  .sddm {
+    min-width: 250px;
+    padding: 8px 10px;
+  }
+  .sddm[data-bs-popper] {
+    top: -5px;
+    left: -10px;
+  }
+  .cus_sear{
+    height: 30px;
+  }
+  .cus_sub{
+    height: 30px;
+  }
+  /* header end */
+
+  /* slider start */
+  .cus_slider {
+    padding: 60px 0;
+  }
+  .cus_slider h2 {
+    font-size: 27px;
+  }
+  .cus_slider p{
+    font-size: 15px;
+    padding: 20px 0;
+  }
+  .cus_slider a{
+    width: 155px;
+    font-size: 15px;
+  }
+  .cus_btn_slide button{
+    font-size: 15px;
+  }
+  /* slider end */
+  /* service start */
+  .service {
+    padding-bottom: 20px;
+  }
+  .com_h2 {
+    font-size: 20px;
+  }
+  .com_style {
+    height: 30px;
+    margin-bottom: 5px;
+  }
+  .single_service {
+    margin-bottom: 25px;
+    padding: 0 12px 10px;
+  }
+  .service_icon {
+    width: 40px;
+    height: 30px;
+    margin: -15px auto 0;
+}
+  .service_icon i {
+    font-size: 40px;
+  }
+  .single_service h3 {
+    padding-top: 20px;
+  }
+  .single_service hr{
+    margin: 5px 0;
+  }
+  .single_service p{
+    padding-bottom: 10px;
+  }
+  .f_text_padd {
+    padding: 20px 0 40px;
+  }
+  /* service end */
+
+  /* about start */
+  .about{
+    padding-bottom: 40px;
+  }
+
+  .about_text h2 {
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .about_text p {
+    padding-bottom: 15px;
+  }
+  .about_text a{
+    width: 155px;
+    font-size: 15px;
+  }
+  /* about end */
+
+  /* why start */
+  .why{
+    padding-bottom: 20px;
+  }
+  .cus_why {
+    padding-bottom: 15px;
+  }
+  .com_h2 {
+    font-size: 20px;
+  }
+  .single_why {
+    margin-top: 15px;
+    text-align: center;
+}
+  .single_why i {
+    font-size: 28px;
+  }
+  .single_why p {
+    padding-top: 10px;
+  }
+  /* why end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  header{
+    padding: 10px 0;
+  }
+  .menu ul li a{
+    padding: 5px 0 0;
+    padding-left: 0 !important;
+    text-align: right;
+  }
+  .search{
+    text-align: right;
+  }
+  .sddm {
+    padding: 8px 10px;
+    min-width: 300;
+  }
+  .sddm[data-bs-popper] {
+    top: -5px;
+    left: 133px;
+
+  }
+  .cus_sear{
+    height: 30px;
+  }
+  .cus_sub{
+    height: 30px;
+  }
+  /* header end */
+
+  /* slider start */
+  .cus_slider{
+    padding: 100px 0;
+  }
+  .cus_slider h2{
+    font-size: 40px;
+  }
+  .cus_slider p{
+    padding: 30px 0;
+  }
+  .cus_slider a{
+    width: 160px;
+    font-size: 15px;
+  }
+  /* slider end */
+
+  /* service start */
+  .service {
+    padding-bottom: 30px;
+  }
+  .com_h2 {
+    font-size: 25px;
+  }
+  .com_style {
+    height: 40px;
+    margin-bottom: 10px;
+  }
+  .single_service {
+    margin-bottom: 25px;
+    padding: 0 12px 20px;
+  }
+  .service_icon {
+    width: 58px;
+    height: 45px;
+    margin: -16px auto 0;
+  }
+  .service_icon i {
+    font-size: 40px;
+  }
+  .single_service h3 {
+    padding-top: 20px;
+  }
+  .single_service p{
+    padding-bottom: 20px;
+  }
+  .f_text_padd {
+    padding: 20px 0 40px;
+  }
+  /* service end */
+
+  /* about start */
+  .about{
+    padding-bottom: 40px;
+  }
+
+  .about_text h2 {
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .about_text p {
+    padding-bottom: 15px;
+  }
+  .about_text a{
+    width: 160px;
+    font-size: 15px;
+  }
+  /* about end */
+
+  /* why start */
+  .why{
+    padding-bottom: 30px;
+  }
+  .cus_why {
+    padding-bottom: 25px;
+  }
+  .com_h2 {
+    font-size: 24px;
+  }
+  .single_why i {
+    font-size: 28px;
+  }
+.single_why p {
+    padding-top: 10px;
+  }
+  /* why end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  /* header start */
+  .menu ul li a{
+    padding-left: 0 !important;
+    text-align: right;
+  }
+  .search{
+    text-align: right;
+  }
+  .sddm {
+        padding: 10px 13px;
+  }
+  .sddm[data-bs-popper] {
+    top: -15px;
+    left: 306px;
+
+  }
+  .cus_sear{
+    height: 40px;
+  }
+  .cus_sub{
+    height: 40px;
+  }
+  /* header end */
+
+  /* slider start */
+  .cus_slider {
+    padding: 150px 0;
+  }
+  .cus_slider h2 {
+    font-size: 50px;
+  }
+  .cus_slider p {
+    padding: 40px 0;
+  }
+  .cus_slider a {
+    width: 175px;
+  }
+  /* slider end */
+
+  /* service start */
+  .service {
+    padding-bottom: 50px;
+  }
+  .com_style {
+    height: 40px;
+    margin-bottom: 15px;
+  }
+  .single_service {
+    margin-bottom: 25px;
+  }
+  .f_text_padd {
+    padding: 30px 0 60px;
+  }
+  /* service end */
+
+  /* about start */
+  .about{
+    padding-bottom: 60px;
+  }
+  .about_image img {
+    padding-top: 85px;
+  }
+  .about_text h2 {
+    font-size: 20px;
+    padding-bottom: 7px;
+  }
+  .about_text p {
+    padding-bottom: 15px;
+  }
+  .about_text a{
+    width: 175px;
+  }
+  /* about end */
+
+
+  /* why start */
+  .why{
+    padding-bottom: 50px;
+  }
+  .cus_why {
+    padding-bottom: 40px;
+  }
+  .com_h2 {
+    font-size: 28px;
+  }
+  .single_why i {
+    font-size: 33px;
+}
+  /* why end */
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+}
+
+/* Extra Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+
+
+}
